@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.canvas.Canvas?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+
+<AnchorPane prefHeight="596.0" prefWidth="885.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <HBox layoutX="14.0" layoutY="14.0" prefHeight="60.0" prefWidth="628.0" spacing="10.0" style="-fx-background-color: grey;">
+         <children>
+            <Button mnemonicParsing="false" onAction="#DrawCircle" prefHeight="56.0" prefWidth="150.0" text="Create Circle" />
+            <Button mnemonicParsing="false" onAction="#DrawRectangle" prefHeight="56.0" prefWidth="150.0" text="Create rectangle" />
+            <Button mnemonicParsing="false" onAction="#DrawLine" prefHeight="56.0" prefWidth="150.0" text="Create line" />
+            <Button mnemonicParsing="false" onAction="#Drawrandom" prefHeight="56.0" prefWidth="150.0" text="CreateRandom" />
+         </children>
+      </HBox>
+      <HBox layoutX="14.0" layoutY="81.0" prefHeight="60.0" prefWidth="628.0" spacing="10.0" style="-fx-background-color: grey;">
+         <children>
+            <Button mnemonicParsing="false" onAction="#DeleteCircles" prefHeight="56.0" prefWidth="150.0" text="Delete Circle" />
+            <Button mnemonicParsing="false" onAction="#DeleteRectangles" prefHeight="56.0" prefWidth="150.0" text="Delete rectangle" />
+            <Button mnemonicParsing="false" onAction="#DeleteLines" prefHeight="56.0" prefWidth="150.0" text="delete line" />
+            <Button mnemonicParsing="false" onAction="#Delete" prefHeight="56.0" prefWidth="150.0" text="delete all" />
+         </children>
+      </HBox>
+      <Canvas fx:id="cvDraw" height="454.0" layoutY="157.0" width="886.0" />
+      <Button layoutX="810.0" layoutY="51.0" mnemonicParsing="false" onAction="#GetImage" prefHeight="56.0" prefWidth="64.0" text="Load" />
+      <ComboBox fx:id="cbSeename" layoutX="648.0" layoutY="14.0" prefHeight="31.0" prefWidth="226.0" />
+      <TextField fx:id="tbName" layoutX="648.0" layoutY="111.0" prefHeight="31.0" prefWidth="226.0" />
+      <Button layoutX="648.0" layoutY="51.0" mnemonicParsing="false" onAction="#SaveImage" prefHeight="56.0" prefWidth="83.0" text="Save" />
+      <Button layoutX="733.0" layoutY="51.0" mnemonicParsing="false" onAction="#RefreshDatabase" prefHeight="56.0" prefWidth="74.0" text="objects" />
+   </children>
+</AnchorPane>

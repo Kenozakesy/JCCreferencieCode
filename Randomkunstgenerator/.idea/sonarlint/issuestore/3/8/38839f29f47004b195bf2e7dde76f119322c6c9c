@@ -1,0 +1,60 @@
+
+N"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(¤ü‹¼
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Š¹¹øûÿÿÿÿ
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û†Ú ûÿÿÿÿ
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÐÇâ
+csquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ð”ûp
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘®Ä†
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â¦¥ÿ
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êœšöýÿÿÿÿ
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾Œ‡Áÿÿÿÿÿ
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îõ³
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ø¼»
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒíÓŸ
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªŒè¬
+jsquid:S00116"TRename this field "Drawables" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¸ î
+ksquid:S00116"URename this field "Disposable" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼×‡Ë
+qsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÐâ¢þÿÿÿÿ
+lsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÊÃª
+qsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÐâ¢þÿÿÿÿ
+lsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÊÃª
+lsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ØÖ‚
+qsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÐâ¢þÿÿÿÿ
+qsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿàÎªþÿÿÿÿ
+lsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìä¿æ
+qsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÐâ¢þÿÿÿÿ
+lsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÊÃª
+qsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÐâ¢þÿÿÿÿ
+lsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÊÃª
+lsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ØÖ‚
+qsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÐâ¢þÿÿÿÿ
+qsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿàÎªþÿÿÿÿ
+lsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìä¿æ
+qsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ýã£úÿÿÿÿÿ
+qsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ýã£úÿÿÿÿÿ
+qsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ýã£úÿÿÿÿÿ
+qsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îªçóûÿÿÿÿ
+@squid:UselessImportCheck"Remove this duplicated import.(Ïî£à
+@squid:UselessImportCheck"Remove this duplicated import.(ìôÆÆ
+]squid:UselessImportCheck"6Remove this unused import 'java.awt.geom.Rectangle2D'.(Å‰Ÿýÿÿÿÿ
+Vsquid:UselessImportCheck"4Remove this unused import 'java.awt.RenderingHints'.(Á‘ñ“
+\squid:UselessImportCheck";Remove this unused import 'javafx.application.Application'.(í™þj
+[squid:UselessImportCheck"4Remove this unused import 'java.awt.geom.Ellipse2D'.(ÖÀ÷‘úÿÿÿÿ
+Wsquid:UselessImportCheck"0Remove this unused import 'java.awt.Graphics2D'.(­¨ú¸üÿÿÿÿ
+Rsquid:UselessImportCheck"0Remove this unused import 'java.awt.geom.Arc2D'.(£¶–›
+]squid:UselessImportCheck"<Remove this unused import 'javax.swing.text.html.ImageView'.(Ÿ€
+Xsquid:UselessImportCheck"6Remove this unused import 'javafx.scene.shape.Circle'.(ÃÁò«
+Wsquid:UselessImportCheck"5Remove this unused import 'javafx.scene.layout.HBox'.(äê…ž
+Ssquid:UselessImportCheck"1Remove this unused import 'java.awt.geom.Line2D'.(ìôÆÆ
+Lsquid:UselessImportCheck"*Remove this unused import 'java.awt.Font'.(êŸŸ
+[squid:UselessImportCheck"9Remove this unused import 'java.awt.event.WindowAdapter'.(­ˆàÛ
+^squid:UselessImportCheck"7Remove this unused import 'java.awt.event.WindowEvent'.(Àø®Ãÿÿÿÿÿ
+\squid:UselessImportCheck";Remove this unused import 'java.awt.geom.RoundRectangle2D'.(ùÇö'
+Ssquid:UselessImportCheck"1Remove this unused import 'javafx.util.Duration'.(ç½®§
+Qsquid:UselessImportCheck"/Remove this unused import 'java.awt.Dimension'.(˜‚º·
+Ssquid:UselessImportCheck"1Remove this unused import 'java.awt.FontMetrics'.(¤î‰
+Vsquid:UselessImportCheck"/Remove this unused import 'javafx.stage.Stage'.(æÄ¸²úÿÿÿÿ
+Usquid:UselessImportCheck".Remove this unused import 'java.awt.Graphics'.(ÂŸÏ§ùÿÿÿÿ
+Zsquid:UselessImportCheck"3Remove this unused import 'java.awt.GradientPaint'.(åÊòÃûÿÿÿÿ
+Ssquid:UselessImportCheck"1Remove this unused import 'java.awt.BasicStroke'.(À‰Øê
+Xsquid:UselessImportCheck"6Remove this unused import 'java.awt.geom.GeneralPath'.(ðÃÀ×

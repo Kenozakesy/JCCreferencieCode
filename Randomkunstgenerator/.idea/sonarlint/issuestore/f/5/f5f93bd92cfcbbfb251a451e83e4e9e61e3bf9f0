@@ -1,0 +1,18 @@
+
+Psquid:S1213";Move this constructor to comply with Java Code Conventions.(ÔÅ¸Â
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÓè
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½£–ÿÿÿÿÿ
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ÅÛ«úÿÿÿÿ
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ‹ïï
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Ÿ°û
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¸­
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷â°’
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô¹Èöøÿÿÿÿ
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏñÎ¬
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìæ¿Ø
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œêãøÿÿÿÿ
+gsquid:S00116"RRename this field "Outline" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å‹£Z
+nsquid:S00116"XRename this field "Linethinkness" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÎœ‰
+lsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÅ¸Â
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(øµØÊ
+Xsquid:UselessImportCheck"6Remove this unused import 'java.awt.event.PaintEvent'.(À›ùÑ

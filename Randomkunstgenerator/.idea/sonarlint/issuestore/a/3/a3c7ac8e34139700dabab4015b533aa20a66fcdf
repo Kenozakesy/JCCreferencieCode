@@ -1,0 +1,96 @@
+
+Zsquid:UnusedPrivateMethod"2Remove this unused private "getProperties" method.(àÅŽôÿÿÿÿÿ
+Qsquid:S1191"<Replace this usage of Sun classes by ones from the Java API.(ô°ñ§
+csquid:S1192"IDefine a constant instead of duplicating this literal "Drawable" 4 times.(·§™ùÿÿÿÿÿ
+hsquid:S1192"NDefine a constant instead of duplicating this literal "Linethinkness" 3 times.(âéêŸÿÿÿÿÿ
+hsquid:S1192"SDefine a constant instead of duplicating this literal "values(?, ?, ?, ?)" 3 times.(®Ã¥Í
+2squid:S2095"Close this "Connection".(¿ÔÃáüÿÿÿÿ
+2squid:S2095"Close this "Connection".(¿ÔÃáüÿÿÿÿ
+2squid:S2095"Close this "Connection".(‡Æüÿÿÿÿ
+2squid:S2095"Close this "Connection".(¿ÔÃáüÿÿÿÿ
+2squid:S2095"Close this "Connection".(¿ÔÃáüÿÿÿÿ
+2squid:S2095"Close this "Connection".(¿ÔÃáüÿÿÿÿ
+2squid:S2095"Close this "Connection".(¿ÔÃáüÿÿÿÿ
+2squid:S2095"Close this "Connection".(¿ÔÃáüÿÿÿÿ
+2squid:S2095"Close this "Connection".(¿ÔÃáüÿÿÿÿ
+2squid:S2095"Close this "Connection".(¿ÔÃáüÿÿÿÿ
+2squid:S2095"Close this "Connection".(¿ÔÃáüÿÿÿÿ
+2squid:S2095"Close this "Connection".(¿ÔÃáüÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(²êÂÓ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(­Š …ùÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ã–‹š
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ã–‹š
+_squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‰Ïøy
+…squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‰ŒÂ·
+Šsquid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(µïˆ×üÿÿÿÿ
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(ý™øøÿÿÿÿ
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(ý™øøÿÿÿÿ
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(ý™øøÿÿÿÿ
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(ý™øøÿÿÿÿ
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(ý™øøÿÿÿÿ
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(ý™øøÿÿÿÿ
+qsquid:S1488"\Immediately return this expression instead of assigning it to the temporary variable "name".(²—
+tsquid:S1488"ZImmediately return this expression instead of assigning it to the temporary variable "ID".(ýˆ’©ùÿÿÿÿ
+Osquid:S2209"5Change this instance-reference to a static reference.(¿ÔÃáüÿÿÿÿ
+Osquid:S2209"5Change this instance-reference to a static reference.(¿ÔÃáüÿÿÿÿ
+Osquid:S2209"5Change this instance-reference to a static reference.(¿ÔÃáüÿÿÿÿ
+Osquid:S2209"5Change this instance-reference to a static reference.(¿ÔÃáüÿÿÿÿ
+Osquid:S2209"5Change this instance-reference to a static reference.(¿ÔÃáüÿÿÿÿ
+Osquid:S2209"5Change this instance-reference to a static reference.(¿ÔÃáüÿÿÿÿ
+Osquid:S2209"5Change this instance-reference to a static reference.(¿ÔÃáüÿÿÿÿ
+Osquid:S2209"5Change this instance-reference to a static reference.(¿ÔÃáüÿÿÿÿ
+Osquid:S2209"5Change this instance-reference to a static reference.(¿ÔÃáüÿÿÿÿ
+Osquid:S2209"5Change this instance-reference to a static reference.(¿ÔÃáüÿÿÿÿ
+Osquid:S2209"5Change this instance-reference to a static reference.(¿ÔÃáüÿÿÿÿ
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ŒÂ·
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô¯œÜýÿÿÿÿ
+:squid:S1166"%Either log or rethrow this exception.(”ý¾
+:squid:S1166"%Either log or rethrow this exception.(É®£
+:squid:S1166"%Either log or rethrow this exception.(À‹ø„
+:squid:S1166"%Either log or rethrow this exception.(À‹ø„
+:squid:S1166"%Either log or rethrow this exception.(À‹ø„
+:squid:S1166"%Either log or rethrow this exception.(À‹ø„
+:squid:S1166"%Either log or rethrow this exception.(À‹ø„
+:squid:S1166"%Either log or rethrow this exception.(À‹ø„
+:squid:S1166"%Either log or rethrow this exception.(À‹ø„
+:squid:S1166"%Either log or rethrow this exception.(À‹ø„
+:squid:S1166"%Either log or rethrow this exception.(À‹ø„
+:squid:S1166"%Either log or rethrow this exception.(À‹ø„
+:squid:S1166"%Either log or rethrow this exception.(À‹ø„
+@squid:S1168"+Return an empty collection instead of null.(¥¹ï
+qsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ºµ²þÿÿÿÿ
+lsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó½Þ
+lsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä»ÏÜ
+qsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·§™ùÿÿÿÿÿ
+qsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë¯áüÿÿÿÿ
+lsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¼À
+qsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë¯áüÿÿÿÿ
+lsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸••Ð
+qsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë¯áüÿÿÿÿ
+qsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­Ü¸Ïÿÿÿÿÿ
+lsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø¦
+qsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿©øøÿÿÿÿ
+lsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø¦
+qsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿©øøÿÿÿÿ
+lsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø¦
+qsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿©øøÿÿÿÿ
+qsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹©‡Òÿÿÿÿÿ
+qsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É‘¼Ñúÿÿÿÿ
+qsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô¯œÜýÿÿÿÿ
+qsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ýˆ’©ùÿÿÿÿ
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(øµØÊ
+@squid:UselessImportCheck"Remove this duplicated import.(¬µŽ²
+ysquid:UselessImportCheck"RRemove this unused import 'jdk.internal.org.objectweb.asm.tree.TryCatchBlockNode'.(Ä·ê—þÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+8squid:S1148"#Use a logger to log this exception.(Ç’Çê
+8squid:S1148"#Use a logger to log this exception.(Ç’Çê
+8squid:S1148"#Use a logger to log this exception.(Ç’Çê
+8squid:S1148"#Use a logger to log this exception.(Ç’Çê
+8squid:S1148"#Use a logger to log this exception.(Ç’Çê
